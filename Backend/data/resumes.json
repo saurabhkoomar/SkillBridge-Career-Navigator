@@ -1,0 +1,194 @@
+[
+  {
+    "id": "resume_001",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@fakeemail.com",
+    "summary": "Recent CS graduate with hands-on experience in web development and cloud computing fundamentals.",
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "State University",
+        "year": 2025
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Engineering Intern",
+        "company": "TechStartup Inc.",
+        "duration": "June 2024 - Aug 2024",
+        "description": "Built REST APIs using Python Flask. Deployed microservices on AWS EC2. Collaborated in agile sprints."
+      }
+    ],
+    "skills": ["Python", "JavaScript", "Flask", "HTML", "CSS", "Git", "AWS EC2", "SQL", "REST APIs"],
+    "certifications": ["AWS Cloud Practitioner"],
+    "resume_text": "Alex Johnson\nSummary: Recent CS graduate with hands-on experience in web development and cloud computing.\nSkills: Python, JavaScript, Flask, HTML, CSS, Git, AWS EC2, SQL, REST APIs\nCertification: AWS Cloud Practitioner\nEducation: B.S. Computer Science, State University, 2025\nExperience: Software Engineering Intern at TechStartup Inc. (June-Aug 2024) - Built REST APIs using Python Flask. Deployed microservices on AWS EC2."
+  },
+  {
+    "id": "resume_002",
+    "name": "Sofia Chen",
+    "email": "sofia.chen@fakeemail.com",
+    "summary": "Data science student with strong analytical skills and experience in machine learning pipelines.",
+    "education": [
+      {
+        "degree": "M.S. Data Science",
+        "institution": "Tech Institute",
+        "year": 2025
+      }
+    ],
+    "experience": [
+      {
+        "title": "Data Science Intern",
+        "company": "Analytics Corp",
+        "duration": "Jan 2024 - May 2024",
+        "description": "Developed predictive models using Scikit-learn. Built ETL pipelines with Pandas. Created visualizations with Matplotlib."
+      }
+    ],
+    "skills": ["Python", "Pandas", "NumPy", "Scikit-learn", "SQL", "Jupyter", "Matplotlib", "Data Analysis"],
+    "certifications": [],
+    "resume_text": "Sofia Chen\nSummary: Data science student with strong analytical skills and experience in machine learning pipelines.\nSkills: Python, Pandas, NumPy, Scikit-learn, SQL, Jupyter, Matplotlib\nEducation: M.S. Data Science, Tech Institute, 2025\nExperience: Data Science Intern at Analytics Corp (Jan-May 2024) - Developed predictive models using Scikit-learn. Built ETL pipelines with Pandas."
+  },
+  {
+    "id": "resume_003",
+    "name": "Marcus Williams",
+    "email": "marcus.w@fakeemail.com",
+    "summary": "Career switcher from marketing with growing skills in web design and digital tools.",
+    "education": [
+      {
+        "degree": "B.A. Marketing",
+        "institution": "Business College",
+        "year": 2018
+      }
+    ],
+    "experience": [
+      {
+        "title": "Marketing Coordinator",
+        "company": "Digital Agency LLC",
+        "duration": "2019 - Present",
+        "description": "Managed WordPress sites. Used Google Analytics for campaign tracking. Implemented SEO best practices. Created graphics with Canva."
+      }
+    ],
+    "skills": ["HTML", "CSS", "JavaScript", "WordPress", "Google Analytics", "SEO", "Canva", "Content Management"],
+    "certifications": ["Google Analytics Certified"],
+    "resume_text": "Marcus Williams\nSummary: Career switcher from marketing with growing skills in web design and digital tools.\nSkills: HTML, CSS, JavaScript, WordPress, Google Analytics, SEO, Canva\nCertification: Google Analytics Certified\nEducation: B.A. Marketing, Business College, 2018\nExperience: Marketing Coordinator at Digital Agency LLC (2019-Present) - Managed WordPress sites, Google Analytics, SEO."
+  },
+  {
+    "id": "resume_004",
+    "name": "Jordan Lee",
+    "email": "jordan.lee@fakeemail.com",
+    "summary": "Cybersecurity student focused on network security and threat analysis.",
+    "education": [
+      {
+        "degree": "B.S. Cybersecurity",
+        "institution": "Security Academy",
+        "year": 2025
+      }
+    ],
+    "experience": [
+      {
+        "title": "Security Analyst Intern",
+        "company": "DefenseTech",
+        "duration": "Sept 2024 - Dec 2024",
+        "description": "Conducted network analysis with Wireshark. Used Nmap for vulnerability scanning. Configured firewalls. Python scripting for SIEM automation."
+      }
+    ],
+    "skills": ["Linux", "Networking", "Wireshark", "Nmap", "Python", "Firewalls", "SIEM", "Threat Analysis"],
+    "certifications": ["CompTIA Security+"],
+    "resume_text": "Jordan Lee\nSummary: Cybersecurity student focused on network security and threat analysis.\nSkills: Linux, Networking, Wireshark, Nmap, Python, Firewalls, SIEM\nCertification: CompTIA Security+\nEducation: B.S. Cybersecurity, Security Academy, 2025\nExperience: Security Analyst Intern at DefenseTech - Network analysis with Wireshark, Nmap, firewalls, SIEM automation."
+  },
+  {
+    "id": "resume_005",
+    "name": "Taylor Rivera",
+    "email": "taylor.r@fakeemail.com",
+    "summary": "DevOps-focused engineer with hands-on experience in containerization and automation.",
+    "education": [
+      {
+        "degree": "B.S. Computer Engineering",
+        "institution": "Engineering University",
+        "year": 2024
+      }
+    ],
+    "experience": [
+      {
+        "title": "DevOps Junior Engineer",
+        "company": "CloudOps Inc.",
+        "duration": "June 2024 - Present",
+        "description": "Built CI/CD pipelines with Jenkins. Containerized applications with Docker. Managed AWS infrastructure. Wrote Terraform configs for IaC."
+      }
+    ],
+    "skills": ["Docker", "Jenkins", "Linux", "Bash", "AWS", "Git", "Terraform", "CI/CD"],
+    "certifications": ["AWS Solutions Architect Associate"],
+    "resume_text": "Taylor Rivera\nSummary: DevOps-focused engineer with experience in containerization and automation.\nSkills: Docker, Jenkins, Linux, Bash, AWS, Git, Terraform\nCertification: AWS Solutions Architect Associate\nEducation: B.S. Computer Engineering, Engineering University, 2024\nExperience: DevOps Junior Engineer at CloudOps Inc. - Jenkins CI/CD, Docker, AWS, Terraform."
+  },
+  {
+    "id": "resume_006",
+    "name": "Samira Patel",
+    "email": "samira.p@fakeemail.com",
+    "summary": "Frontend developer specializing in React and modern CSS frameworks.",
+    "education": [
+      {
+        "degree": "B.S. Web Development",
+        "institution": "Digital Arts College",
+        "year": 2024
+      }
+    ],
+    "experience": [
+      {
+        "title": "Frontend Developer",
+        "company": "WebStudio",
+        "duration": "2023 - Present",
+        "description": "Built responsive UIs with React and TypeScript. Designed mockups in Figma. State management with Redux. Styled with Tailwind CSS."
+      }
+    ],
+    "skills": ["React", "TypeScript", "CSS", "Figma", "HTML", "JavaScript", "Redux", "Tailwind CSS"],
+    "certifications": [],
+    "resume_text": "Samira Patel\nSummary: Frontend developer specializing in React and modern CSS frameworks.\nSkills: React, TypeScript, CSS, Figma, HTML, JavaScript, Redux, Tailwind CSS\nEducation: B.S. Web Development, Digital Arts College, 2024\nExperience: Frontend Developer at WebStudio - React, TypeScript, Figma, Redux, Tailwind."
+  },
+  {
+    "id": "resume_007",
+    "name": "Chris Anderson",
+    "email": "chris.a@fakeemail.com",
+    "summary": "Fresh CS graduate with foundational programming and data structures knowledge.",
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "State Tech University",
+        "year": 2025
+      }
+    ],
+    "experience": [
+      {
+        "title": "Teaching Assistant",
+        "company": "State Tech University",
+        "duration": "Sept 2024 - May 2025",
+        "description": "TA for Data Structures course. Graded assignments in Java and C++. Tutored students in Python basics."
+      }
+    ],
+    "skills": ["Java", "C++", "Python", "Git", "Data Structures", "Algorithms", "OOP"],
+    "certifications": [],
+    "resume_text": "Chris Anderson\nSummary: Fresh CS graduate with foundational programming and data structures knowledge.\nSkills: Java, C++, Python, Git, Data Structures, Algorithms\nEducation: B.S. Computer Science, State Tech University, 2025\nExperience: Teaching Assistant - Data Structures, Java, C++, Python."
+  },
+  {
+    "id": "resume_008",
+    "name": "Riley Nguyen",
+    "email": "riley.n@fakeemail.com",
+    "summary": "Bootcamp graduate with full-stack MERN experience and deployment skills.",
+    "education": [
+      {
+        "degree": "Web Development Bootcamp",
+        "institution": "Code Academy",
+        "year": 2024
+      }
+    ],
+    "experience": [
+      {
+        "title": "Full-Stack Developer",
+        "company": "StartupXYZ",
+        "duration": "July 2024 - Present",
+        "description": "Built full-stack app with MongoDB, Express, React, Node.js. REST APIs and authentication. Deployed on Heroku. Git workflows."
+      }
+    ],
+    "skills": ["MongoDB", "Express", "React", "Node.js", "Git", "Heroku", "REST APIs", "JavaScript"],
+    "certifications": ["Full-Stack Developer Certificate"],
+    "resume_text": "Riley Nguyen\nSummary: Bootcamp graduate with full-stack MERN experience and deployment skills.\nSkills: MongoDB, Express, React, Node.js, Git, Heroku, REST APIs\nCertification: Full-Stack Developer Certificate\nEducation: Web Development Bootcamp, Code Academy, 2024\nExperience: Full-Stack Developer at StartupXYZ - MERN stack, Heroku deployment, Git."
+  }
+]
