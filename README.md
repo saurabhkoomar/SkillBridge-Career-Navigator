@@ -313,7 +313,8 @@ python -m venv venv
 .\venv\Scripts\activate.bat   # Windows
 # source venv/bin/activate    # macOS/Linux
 pip install -r requirements.txt
-cp .env.example .env
+copy .env.example .env # Windows
+# cp .env.example .env # macOS/Linux
 # Add your GROQ_API_KEY to .env
 uvicorn app.main:app --reload --port 8000
 # Note: Use "app.main:app" (not "main:app") — the app lives in app/main.py
